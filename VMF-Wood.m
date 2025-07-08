@@ -44,4 +44,3 @@ end
     axis equal;
     grid on;
     hold off
-    %print(gcf, 'VMF-Wood16', '-dpng', '-r300')
