@@ -96,5 +96,3 @@ Y = signo_kappa*Y;
     axis equal;
     grid on;
     hold off
-    print(gcf, 'FB5_K_16', '-dpng', '-r300')
-
