@@ -55,4 +55,3 @@ Y=[cos(phi).*sx,sin(phi).*sx,X];
     axis equal;
     grid on;
     hold off
-    %print(gcf, 'DW-Fish16', '-dpng', '-r300')
