@@ -26,4 +26,3 @@ radio=ones(n,1);
     axis equal;
     grid on;
     hold off
-print(gcf, 'Uniforme3', '-dpng', '-r300')
