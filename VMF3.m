@@ -30,4 +30,3 @@ n = 1000; % Parámetro que representa el número de muestras
     axis equal;
     grid on;
     hold off
-    %print(gcf, 'VMFinv16', '-dpng', '-r300')
