@@ -52,4 +52,3 @@ Y = [cos(Phi).*sx,sin(Phi).*sx,X];
     axis equal;
     grid on;
     hold off
-    %print(gcf, 'FB6_16', '-dpng', '-r300')
